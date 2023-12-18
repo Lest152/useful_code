@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T19:34:47.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.732 YaBrowser/23.11.1.732 Yowser/2.5 Safari/537.36" etag="lAVlq7dIw5shTFaHbpIV" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T19:34:57.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.732 YaBrowser/23.11.1.732 Yowser/2.5 Safari/537.36" etag="ZHy3oJgQso9dGkJre8BO" version="22.1.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2373" dy="1983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
           <mxGeometry x="50" y="658" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-_XnjNIZJdmLHWLB3OJD-13" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=default;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="40" y="868" width="720" height="110" as="geometry" />
+          <mxGeometry x="40" y="868" width="720" height="162" as="geometry" />
         </mxCell>
         <mxCell id="-_XnjNIZJdmLHWLB3OJD-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-_XnjNIZJdmLHWLB3OJD-15" target="-_XnjNIZJdmLHWLB3OJD-29" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -92,7 +92,7 @@
         </mxCell>
         <mxCell id="-_XnjNIZJdmLHWLB3OJD-39" value="Реализует обработку HTTP-запросов" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-_XnjNIZJdmLHWLB3OJD-38" vertex="1" connectable="0">
           <mxGeometry x="-0.8309" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="49" as="offset" />
+            <mxPoint x="1" y="69" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-_XnjNIZJdmLHWLB3OJD-14" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;RequestHandler&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
