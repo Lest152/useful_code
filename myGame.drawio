@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T19:51:21.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.732 YaBrowser/23.11.1.732 Yowser/2.5 Safari/537.36" etag="kiIzGdLEA-Ck9D713OvR" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T19:52:48.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.732 YaBrowser/23.11.1.732 Yowser/2.5 Safari/537.36" etag="2QdUMWgXGiagw1uCxsvP" version="22.1.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2575" dy="2089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3340" dy="2492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -132,7 +132,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-_XnjNIZJdmLHWLB3OJD-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;request_handler&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="265" y="868" width="150" height="40" as="geometry" />
+          <mxGeometry x="325" y="868" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-_XnjNIZJdmLHWLB3OJD-18" value="Обрабатывает HTTP-запросы" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-10" y="878" width="200" height="30" as="geometry" />
@@ -240,8 +240,11 @@
         <mxCell id="TLE_2MJ0uI7yjBn3FSsW-23" value="operator(ip&amp;amp;&amp;amp;, requense&amp;amp;&amp;amp;, Send&amp;amp;&amp;amp;)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TLE_2MJ0uI7yjBn3FSsW-18">
           <mxGeometry y="100" width="305" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TLE_2MJ0uI7yjBn3FSsW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.379;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TLE_2MJ0uI7yjBn3FSsW-22" target="TLE_2MJ0uI7yjBn3FSsW-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="TLE_2MJ0uI7yjBn3FSsW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.379;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="306.9600000000002" y="988.0212765957444" as="sourcePoint" />
+            <mxPoint x="439.99999999999994" y="986.9499999999998" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
