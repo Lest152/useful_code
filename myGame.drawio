@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T09:56:22.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.771 YaBrowser/23.11.2.771 Yowser/2.5 Safari/537.36" etag="hIy9Va3ak5aLxMjXwpgf" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T10:01:50.887Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.771 YaBrowser/23.11.2.771 Yowser/2.5 Safari/537.36" etag="zdZ0395cANbSD7V4QMlL" version="22.1.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2213" dy="1899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="kK3XNEmJycX0j8ojbDVo-19" value="AddMap(Map)&lt;br&gt;Maps&amp;amp; GetMaps()&lt;br&gt;Map* FindMap(Id)&lt;br&gt;AddSession(GameSession)&lt;br&gt;GameSession* FindSession(map_id)&lt;br&gt;ConnectToGame(MapId, DogName)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=0;" parent="kK3XNEmJycX0j8ojbDVo-18" vertex="1">
           <mxGeometry y="30" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TLE_2MJ0uI7yjBn3FSsW-5" value="maps_:[Map]&lt;br&gt;&lt;span&gt;sessions_:[GameSession*]&lt;br&gt;players_:Players&lt;br&gt;tokens_:PlayerTokens&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=0" parent="kK3XNEmJycX0j8ojbDVo-18" vertex="1">
+        <mxCell id="TLE_2MJ0uI7yjBn3FSsW-5" value="maps_:[Map]&lt;br&gt;&lt;span&gt;sessions_:[GameSession*]&lt;br&gt;players_:Players&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=0" parent="kK3XNEmJycX0j8ojbDVo-18" vertex="1">
           <mxGeometry y="120" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kK3XNEmJycX0j8ojbDVo-25" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Map&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
