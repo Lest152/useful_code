@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T08:06:45.126Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 YaBrowser/23.11.0.0 Safari/537.36" etag="eYvec3Y2QYDVSW8Daal5" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T08:07:43.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 YaBrowser/23.11.0.0 Safari/537.36" etag="RTY_2ABuF4ZtUw_0V-a7" version="22.1.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2263" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -255,13 +255,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TLE_2MJ0uI7yjBn3FSsW-0" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Dog&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="590" y="287" width="140" height="180" as="geometry" />
+          <mxGeometry x="590" y="272" width="140" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="TLE_2MJ0uI7yjBn3FSsW-1" value="size_t GetId()&lt;br&gt;Point GetPos()&lt;br&gt;Speed GetSpeed()&lt;br&gt;Direction GetDirection()" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="TLE_2MJ0uI7yjBn3FSsW-0" vertex="1">
-          <mxGeometry y="30" width="140" height="70" as="geometry" />
+        <mxCell id="TLE_2MJ0uI7yjBn3FSsW-1" value="size_t GetId()&lt;br&gt;string GetName()&lt;br&gt;Point GetPos()&lt;br&gt;Speed GetSpeed()&lt;br&gt;Direction GetDirection()" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="TLE_2MJ0uI7yjBn3FSsW-0" vertex="1">
+          <mxGeometry y="30" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-d_BuJ7uQr2KmiJaSdZM-5" value="id_:size_t&lt;br&gt;name_:string&lt;br&gt;pos_:Point&lt;br&gt;speed_:Speed&lt;br&gt;dir_:Direction" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="TLE_2MJ0uI7yjBn3FSsW-0" vertex="1">
-          <mxGeometry y="100" width="140" height="80" as="geometry" />
+          <mxGeometry y="110" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TLE_2MJ0uI7yjBn3FSsW-18" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;LoggingRequestHandler&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="800" y="1229" width="305" height="130" as="geometry">
