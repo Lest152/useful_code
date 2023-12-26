@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T16:34:18.394Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 YaBrowser/23.11.0.0 Safari/537.36" etag="mo-rigrZXeEq6yWhpkpt" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T16:35:12.416Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 YaBrowser/23.11.0.0 Safari/537.36" etag="xyEQXZkFyz8k6sLcISay" version="22.1.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2213" dy="1899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2837" dy="2227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -37,7 +37,7 @@
         <mxCell id="-d_BuJ7uQr2KmiJaSdZM-1" value="&lt;span&gt;Id GetId()&lt;br&gt;Dogs GetDogs()&lt;br&gt;size_t DogsCont()&lt;br&gt;AddDog(dog*)&lt;br&gt;Map GetMap()&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=0" parent="kK3XNEmJycX0j8ojbDVo-29" vertex="1">
           <mxGeometry y="30" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-d_BuJ7uQr2KmiJaSdZM-6" value="&lt;span&gt;id_:Id&lt;br&gt;dogs_:[Dog*]&lt;br&gt;map_:Map*&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=0" parent="kK3XNEmJycX0j8ojbDVo-29" vertex="1">
+        <mxCell id="-d_BuJ7uQr2KmiJaSdZM-6" value="&lt;span&gt;id_:Id&lt;br&gt;dogs_:[Dog*]&lt;br&gt;map_:Map&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=0" parent="kK3XNEmJycX0j8ojbDVo-29" vertex="1">
           <mxGeometry y="110" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kK3XNEmJycX0j8ojbDVo-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.002;entryY=0.056;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kK3XNEmJycX0j8ojbDVo-25" target="kK3XNEmJycX0j8ojbDVo-19" edge="1">
