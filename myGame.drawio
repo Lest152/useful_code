@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T13:37:00.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 YaBrowser/23.11.0.0 Safari/537.36" etag="J8_6CEC77BfJ01AyTLKM" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T13:37:52.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 YaBrowser/23.11.0.0 Safari/537.36" etag="UczAzeC-qBTYFAdpGlu4" version="22.1.15" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2502" dy="2051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-_XnjNIZJdmLHWLB3OJD-1" value="Содержит игровые сущности и бизнес-&lt;br&gt;логику игры" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="50" y="-112" width="250" height="40" as="geometry" />
+          <mxGeometry x="50" y="-130" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mTJFydQudF-oLW5hOp1H-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-_XnjNIZJdmLHWLB3OJD-2" target="zR_VMZLDNJ4zLKiuyaMJ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -385,16 +385,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zCpnRkHH18ZtwcN25YU1-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-670" y="850" width="470" height="230" as="geometry" />
+          <mxGeometry x="-570" y="437" width="470" height="230" as="geometry" />
         </mxCell>
         <mxCell id="zCpnRkHH18ZtwcN25YU1-1" value="Генератор трофеев" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-610" y="861" width="140" height="30" as="geometry" />
+          <mxGeometry x="-510" y="448" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zCpnRkHH18ZtwcN25YU1-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;loot_gen&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-460" y="865" width="90" height="40" as="geometry" />
+          <mxGeometry x="-360" y="452" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zCpnRkHH18ZtwcN25YU1-3" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;LootGenerator&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-582.5" y="935" width="335" height="70" as="geometry">
+          <mxGeometry x="-482.5" y="522" width="335" height="70" as="geometry">
             <mxRectangle x="330" y="460" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -412,6 +412,17 @@
         <mxCell id="zCpnRkHH18ZtwcN25YU1-10" value="Вызывает генератор &lt;br&gt;по тику" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zCpnRkHH18ZtwcN25YU1-8">
           <mxGeometry x="0.0554" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zCpnRkHH18ZtwcN25YU1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.111;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zCpnRkHH18ZtwcN25YU1-3" target="kK3XNEmJycX0j8ojbDVo-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-315" y="240" />
+              <mxPoint x="-310" y="240" />
+              <mxPoint x="-310" y="-90" />
+              <mxPoint x="350" y="-90" />
+              <mxPoint x="350" y="-100" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
