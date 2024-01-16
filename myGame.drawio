@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T13:40:20.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 YaBrowser/23.11.0.0 Safari/537.36" etag="VzHkRcluVEzWA5kSZyoF" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T13:40:25.736Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 YaBrowser/23.11.0.0 Safari/537.36" etag="sp-F7EizJgC1tgSSVhv9" version="22.1.15" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2502" dy="2051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -401,7 +401,7 @@
         <mxCell id="zCpnRkHH18ZtwcN25YU1-4" value="unsigned Generate(time_delta, loot_count, looter_count)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="zCpnRkHH18ZtwcN25YU1-3">
           <mxGeometry y="30" width="335" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zCpnRkHH18ZtwcN25YU1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.996;entryY=0.193;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-_XnjNIZJdmLHWLB3OJD-4" target="zCpnRkHH18ZtwcN25YU1-0">
+        <mxCell id="zCpnRkHH18ZtwcN25YU1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.996;entryY=0.193;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-_XnjNIZJdmLHWLB3OJD-4" target="zCpnRkHH18ZtwcN25YU1-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zCpnRkHH18ZtwcN25YU1-9" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zCpnRkHH18ZtwcN25YU1-8">
